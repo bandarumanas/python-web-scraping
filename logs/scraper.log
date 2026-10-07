@@ -1,0 +1,188 @@
+2026-10-06 21:56:38,155 | INFO | SCRAPER START
+2026-10-06 21:56:38,155 | INFO | REQUEST https://books.toscrape.com/ (attempt 1)
+2026-10-06 21:56:40,627 | INFO | PAGE 1 | Books to Scrape | records=20
+2026-10-06 21:56:40,627 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:56:40,878 | INFO | REQUEST https://books.toscrape.com/catalogue/page-2.html (attempt 1)
+2026-10-06 21:56:41,538 | INFO | PAGE 2 | Books to Scrape | records=20
+2026-10-06 21:56:41,538 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:56:41,798 | INFO | REQUEST https://books.toscrape.com/catalogue/page-3.html (attempt 1)
+2026-10-06 21:56:42,524 | INFO | PAGE 3 | Books to Scrape | records=20
+2026-10-06 21:56:42,524 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:56:42,781 | INFO | REQUEST https://books.toscrape.com/catalogue/page-4.html (attempt 1)
+2026-10-06 21:56:43,388 | INFO | PAGE 4 | Books to Scrape | records=20
+2026-10-06 21:56:43,388 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:56:43,643 | INFO | REQUEST https://books.toscrape.com/catalogue/page-5.html (attempt 1)
+2026-10-06 21:56:44,289 | INFO | PAGE 5 | Books to Scrape | records=20
+2026-10-06 21:56:44,289 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:56:44,550 | INFO | REQUEST https://books.toscrape.com/catalogue/page-6.html (attempt 1)
+2026-10-06 21:56:44,911 | INFO | PAGE 6 | Books to Scrape | records=20
+2026-10-06 21:56:44,911 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:56:45,166 | INFO | REQUEST https://books.toscrape.com/catalogue/page-7.html (attempt 1)
+2026-10-06 21:56:45,787 | INFO | PAGE 7 | Books to Scrape | records=20
+2026-10-06 21:56:45,787 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:56:46,051 | INFO | REQUEST https://books.toscrape.com/catalogue/page-8.html (attempt 1)
+2026-10-06 21:56:46,467 | INFO | PAGE 8 | Books to Scrape | records=20
+2026-10-06 21:56:46,467 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:56:46,725 | INFO | REQUEST https://books.toscrape.com/catalogue/page-9.html (attempt 1)
+2026-10-06 21:56:47,086 | INFO | PAGE 9 | Books to Scrape | records=20
+2026-10-06 21:56:47,102 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:56:47,353 | INFO | REQUEST https://books.toscrape.com/catalogue/page-10.html (attempt 1)
+2026-10-06 21:56:48,019 | INFO | PAGE 10 | Books to Scrape | records=20
+2026-10-06 21:56:48,019 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:56:48,277 | INFO | REQUEST https://books.toscrape.com/catalogue/page-11.html (attempt 1)
+2026-10-06 21:56:48,685 | INFO | PAGE 11 | Books to Scrape | records=20
+2026-10-06 21:56:48,686 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:56:48,937 | INFO | REQUEST https://books.toscrape.com/catalogue/page-12.html (attempt 1)
+2026-10-06 21:56:49,603 | INFO | PAGE 12 | Books to Scrape | records=20
+2026-10-06 21:56:49,603 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:56:49,866 | INFO | REQUEST https://books.toscrape.com/catalogue/page-13.html (attempt 1)
+2026-10-06 21:56:50,521 | INFO | PAGE 13 | Books to Scrape | records=20
+2026-10-06 21:56:50,521 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:56:50,776 | INFO | REQUEST https://books.toscrape.com/catalogue/page-14.html (attempt 1)
+2026-10-06 21:56:51,158 | INFO | PAGE 14 | Books to Scrape | records=20
+2026-10-06 21:56:51,158 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:56:51,420 | INFO | REQUEST https://books.toscrape.com/catalogue/page-15.html (attempt 1)
+2026-10-06 21:56:52,140 | INFO | PAGE 15 | Books to Scrape | records=20
+2026-10-06 21:56:52,151 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:56:52,403 | INFO | REQUEST https://books.toscrape.com/catalogue/page-16.html (attempt 1)
+2026-10-06 21:56:53,070 | INFO | PAGE 16 | Books to Scrape | records=20
+2026-10-06 21:56:53,070 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:56:53,324 | INFO | REQUEST https://books.toscrape.com/catalogue/page-17.html (attempt 1)
+2026-10-06 21:56:53,706 | INFO | PAGE 17 | Books to Scrape | records=20
+2026-10-06 21:56:53,706 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:56:53,970 | INFO | REQUEST https://books.toscrape.com/catalogue/page-18.html (attempt 1)
+2026-10-06 21:56:54,684 | INFO | PAGE 18 | Books to Scrape | records=20
+2026-10-06 21:56:54,685 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:56:54,937 | INFO | REQUEST https://books.toscrape.com/catalogue/page-19.html (attempt 1)
+2026-10-06 21:56:55,604 | INFO | PAGE 19 | Books to Scrape | records=20
+2026-10-06 21:56:55,604 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:56:55,859 | INFO | REQUEST https://books.toscrape.com/catalogue/page-20.html (attempt 1)
+2026-10-06 21:56:56,587 | INFO | PAGE 20 | Books to Scrape | records=20
+2026-10-06 21:56:56,587 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:56:56,845 | INFO | REQUEST https://books.toscrape.com/catalogue/page-21.html (attempt 1)
+2026-10-06 21:56:57,502 | INFO | PAGE 21 | Books to Scrape | records=20
+2026-10-06 21:56:57,502 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:56:57,762 | INFO | REQUEST https://books.toscrape.com/catalogue/page-22.html (attempt 1)
+2026-10-06 21:56:58,419 | INFO | PAGE 22 | Books to Scrape | records=20
+2026-10-06 21:56:58,419 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:56:58,672 | INFO | REQUEST https://books.toscrape.com/catalogue/page-23.html (attempt 1)
+2026-10-06 21:56:59,366 | INFO | PAGE 23 | Books to Scrape | records=20
+2026-10-06 21:56:59,366 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:56:59,617 | INFO | REQUEST https://books.toscrape.com/catalogue/page-24.html (attempt 1)
+2026-10-06 21:57:00,217 | INFO | PAGE 24 | Books to Scrape | records=20
+2026-10-06 21:57:00,217 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:57:00,469 | INFO | REQUEST https://books.toscrape.com/catalogue/page-25.html (attempt 1)
+2026-10-06 21:57:01,118 | INFO | PAGE 25 | Books to Scrape | records=20
+2026-10-06 21:57:01,118 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:57:01,376 | INFO | REQUEST https://books.toscrape.com/catalogue/page-26.html (attempt 1)
+2026-10-06 21:57:02,049 | INFO | PAGE 26 | Books to Scrape | records=20
+2026-10-06 21:57:02,049 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:57:02,301 | INFO | REQUEST https://books.toscrape.com/catalogue/page-27.html (attempt 1)
+2026-10-06 21:57:02,952 | INFO | PAGE 27 | Books to Scrape | records=20
+2026-10-06 21:57:02,952 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:57:03,215 | INFO | REQUEST https://books.toscrape.com/catalogue/page-28.html (attempt 1)
+2026-10-06 21:57:03,834 | INFO | PAGE 28 | Books to Scrape | records=20
+2026-10-06 21:57:03,834 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:57:04,093 | INFO | REQUEST https://books.toscrape.com/catalogue/page-29.html (attempt 1)
+2026-10-06 21:57:04,750 | INFO | PAGE 29 | Books to Scrape | records=20
+2026-10-06 21:57:04,750 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:57:05,001 | INFO | REQUEST https://books.toscrape.com/catalogue/page-30.html (attempt 1)
+2026-10-06 21:57:05,685 | INFO | PAGE 30 | Books to Scrape | records=20
+2026-10-06 21:57:05,685 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:57:05,940 | INFO | REQUEST https://books.toscrape.com/catalogue/page-31.html (attempt 1)
+2026-10-06 21:57:06,602 | INFO | PAGE 31 | Books to Scrape | records=20
+2026-10-06 21:57:06,602 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:57:06,864 | INFO | REQUEST https://books.toscrape.com/catalogue/page-32.html (attempt 1)
+2026-10-06 21:57:07,585 | INFO | PAGE 32 | Books to Scrape | records=20
+2026-10-06 21:57:07,585 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:57:07,843 | INFO | REQUEST https://books.toscrape.com/catalogue/page-33.html (attempt 1)
+2026-10-06 21:57:08,518 | INFO | PAGE 33 | Books to Scrape | records=20
+2026-10-06 21:57:08,518 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:57:08,769 | INFO | REQUEST https://books.toscrape.com/catalogue/page-34.html (attempt 1)
+2026-10-06 21:57:09,451 | INFO | PAGE 34 | Books to Scrape | records=20
+2026-10-06 21:57:09,451 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:57:09,709 | INFO | REQUEST https://books.toscrape.com/catalogue/page-35.html (attempt 1)
+2026-10-06 21:57:10,383 | INFO | PAGE 35 | Books to Scrape | records=20
+2026-10-06 21:57:10,383 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:57:10,638 | INFO | REQUEST https://books.toscrape.com/catalogue/page-36.html (attempt 1)
+2026-10-06 21:57:11,300 | INFO | PAGE 36 | Books to Scrape | records=20
+2026-10-06 21:57:11,300 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:57:11,556 | INFO | REQUEST https://books.toscrape.com/catalogue/page-37.html (attempt 1)
+2026-10-06 21:57:12,250 | INFO | PAGE 37 | Books to Scrape | records=20
+2026-10-06 21:57:12,250 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:57:12,504 | INFO | REQUEST https://books.toscrape.com/catalogue/page-38.html (attempt 1)
+2026-10-06 21:57:13,183 | INFO | PAGE 38 | Books to Scrape | records=20
+2026-10-06 21:57:13,183 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:57:13,446 | INFO | REQUEST https://books.toscrape.com/catalogue/page-39.html (attempt 1)
+2026-10-06 21:57:14,133 | INFO | PAGE 39 | Books to Scrape | records=20
+2026-10-06 21:57:14,133 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:57:14,397 | INFO | REQUEST https://books.toscrape.com/catalogue/page-40.html (attempt 1)
+2026-10-06 21:57:15,032 | INFO | PAGE 40 | Books to Scrape | records=20
+2026-10-06 21:57:15,032 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:57:15,294 | INFO | REQUEST https://books.toscrape.com/catalogue/page-41.html (attempt 1)
+2026-10-06 21:57:15,915 | INFO | PAGE 41 | Books to Scrape | records=20
+2026-10-06 21:57:15,916 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:57:16,167 | INFO | REQUEST https://books.toscrape.com/catalogue/page-42.html (attempt 1)
+2026-10-06 21:57:16,866 | INFO | PAGE 42 | Books to Scrape | records=20
+2026-10-06 21:57:16,866 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:57:17,124 | INFO | REQUEST https://books.toscrape.com/catalogue/page-43.html (attempt 1)
+2026-10-06 21:57:17,848 | INFO | PAGE 43 | Books to Scrape | records=20
+2026-10-06 21:57:17,848 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:57:18,106 | INFO | REQUEST https://books.toscrape.com/catalogue/page-44.html (attempt 1)
+2026-10-06 21:57:18,783 | INFO | PAGE 44 | Books to Scrape | records=20
+2026-10-06 21:57:18,783 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:57:19,043 | INFO | REQUEST https://books.toscrape.com/catalogue/page-45.html (attempt 1)
+2026-10-06 21:57:19,733 | INFO | PAGE 45 | Books to Scrape | records=20
+2026-10-06 21:57:19,733 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:57:19,986 | INFO | REQUEST https://books.toscrape.com/catalogue/page-46.html (attempt 1)
+2026-10-06 21:57:20,682 | INFO | PAGE 46 | Books to Scrape | records=20
+2026-10-06 21:57:20,684 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:57:20,934 | INFO | REQUEST https://books.toscrape.com/catalogue/page-47.html (attempt 1)
+2026-10-06 21:57:21,615 | INFO | PAGE 47 | Books to Scrape | records=20
+2026-10-06 21:57:21,615 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:57:21,871 | INFO | REQUEST https://books.toscrape.com/catalogue/page-48.html (attempt 1)
+2026-10-06 21:57:22,531 | INFO | PAGE 48 | Books to Scrape | records=20
+2026-10-06 21:57:22,531 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:57:22,793 | INFO | REQUEST https://books.toscrape.com/catalogue/page-49.html (attempt 1)
+2026-10-06 21:57:23,517 | INFO | PAGE 49 | Books to Scrape | records=20
+2026-10-06 21:57:23,517 | INFO | NEXT Books to Scrape -> https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:57:23,771 | INFO | REQUEST https://books.toscrape.com/catalogue/page-50.html (attempt 1)
+2026-10-06 21:57:24,463 | INFO | PAGE 50 | Books to Scrape | records=20
+2026-10-06 21:57:24,463 | INFO | END Books to Scrape | no next link
+2026-10-06 21:57:24,787 | INFO | SOURCE SUMMARY | Books to Scrape | scraped=1000 cleaned=1000 rejected=0
+2026-10-06 21:57:24,787 | INFO | REQUEST https://quotes.toscrape.com/ (attempt 1)
+2026-10-06 21:57:26,499 | INFO | PAGE 1 | Quotes to Scrape | records=10
+2026-10-06 21:57:26,500 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/2/
+2026-10-06 21:57:26,751 | INFO | REQUEST https://quotes.toscrape.com/page/2/ (attempt 1)
+2026-10-06 21:57:27,020 | INFO | PAGE 2 | Quotes to Scrape | records=10
+2026-10-06 21:57:27,020 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/3/
+2026-10-06 21:57:27,287 | INFO | REQUEST https://quotes.toscrape.com/page/3/ (attempt 1)
+2026-10-06 21:57:27,596 | INFO | PAGE 3 | Quotes to Scrape | records=10
+2026-10-06 21:57:27,596 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/4/
+2026-10-06 21:57:27,861 | INFO | REQUEST https://quotes.toscrape.com/page/4/ (attempt 1)
+2026-10-06 21:57:28,162 | INFO | PAGE 4 | Quotes to Scrape | records=10
+2026-10-06 21:57:28,162 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/5/
+2026-10-06 21:57:28,422 | INFO | REQUEST https://quotes.toscrape.com/page/5/ (attempt 1)
+2026-10-06 21:57:28,723 | INFO | PAGE 5 | Quotes to Scrape | records=10
+2026-10-06 21:57:28,723 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/6/
+2026-10-06 21:57:28,989 | INFO | REQUEST https://quotes.toscrape.com/page/6/ (attempt 1)
+2026-10-06 21:57:29,289 | INFO | PAGE 6 | Quotes to Scrape | records=10
+2026-10-06 21:57:29,295 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/7/
+2026-10-06 21:57:29,546 | INFO | REQUEST https://quotes.toscrape.com/page/7/ (attempt 1)
+2026-10-06 21:57:29,849 | INFO | PAGE 7 | Quotes to Scrape | records=10
+2026-10-06 21:57:29,849 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/8/
+2026-10-06 21:57:30,104 | INFO | REQUEST https://quotes.toscrape.com/page/8/ (attempt 1)
+2026-10-06 21:57:30,428 | INFO | PAGE 8 | Quotes to Scrape | records=10
+2026-10-06 21:57:30,429 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/9/
+2026-10-06 21:57:30,680 | INFO | REQUEST https://quotes.toscrape.com/page/9/ (attempt 1)
+2026-10-06 21:57:30,988 | INFO | PAGE 9 | Quotes to Scrape | records=10
+2026-10-06 21:57:30,988 | INFO | NEXT Quotes to Scrape -> https://quotes.toscrape.com/page/10/
+2026-10-06 21:57:31,244 | INFO | REQUEST https://quotes.toscrape.com/page/10/ (attempt 1)
+2026-10-06 21:57:31,576 | INFO | PAGE 10 | Quotes to Scrape | records=10
+2026-10-06 21:57:31,592 | INFO | END Quotes to Scrape | no next link
+2026-10-06 21:57:31,861 | INFO | SOURCE SUMMARY | Quotes to Scrape | scraped=100 cleaned=100 rejected=0
+2026-10-06 21:57:31,977 | INFO | DEDUPLICATION | removed=1
+2026-10-06 21:57:32,040 | INFO | OUTPUT CSV: output\final_dataset.csv
+2026-10-06 21:57:32,041 | INFO | OUTPUT JSON: output\summary_report.json
+2026-10-06 21:57:32,042 | INFO | FINAL RECORD COUNT: 1099
+2026-10-06 21:57:32,042 | INFO | SCRAPER COMPLETE
